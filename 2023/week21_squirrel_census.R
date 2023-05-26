@@ -54,4 +54,4 @@ p <- ggplot() +
         plot.caption = element_text(hjust = 0.5), 
         axis.text.x = element_text(angle = 45, hjust = 1))
 
-save_plot("images/squirrel_census_food.png", p, base_height=5)
+save_plot("../images/week21_squirrel_census_food.png", p, base_height=5)
