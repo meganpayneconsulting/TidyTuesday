@@ -7,6 +7,13 @@ Plots for the #TidyTuesday project - a weekly R #DataVisualization challenge
 Main repository for the project
 
 ---
+Week 32 - Hot Ones Youtube Series
+
+![Heatmap of Scoville score for each of the sauces for each season](images/week32_scoville_heatmap.png "Heatmap of Scoville score for each hot sauce, each season")
+
+[Code](2023/week32_hot_ones.R)
+
+---
 
 Week 21 - Squirrel Census
 
